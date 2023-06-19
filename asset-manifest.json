@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.9066d1d2.css",
-    "main.js": "./static/js/main.26848b23.js",
+    "main.css": "./static/css/main.945eaa97.css",
+    "main.js": "./static/js/main.39a8f2ff.js",
     "static/js/787.3e67008f.chunk.js": "./static/js/787.3e67008f.chunk.js",
     "static/media/co2.mp4": "./static/media/co2.7280219bd3851d2af2ca.mp4",
     "static/media/os.mp4": "./static/media/os.949163a4b96e82b12c64.mp4",
@@ -19,6 +19,7 @@
     "static/media/chart.gif": "./static/media/chart.a1cfcdf65180487b60ba.gif",
     "static/media/panel.png": "./static/media/panel.c5e7e6899d34b07425db.png",
     "static/media/option3_2.mov": "./static/media/option3_2.8d59d29ddd8708f5ed7c.mov",
+    "static/media/teaser.png": "./static/media/teaser.a7e95c400e241d8f9130.png",
     "static/media/selection.png": "./static/media/selection.27f512db7c4e1301f3c4.png",
     "static/media/castlogo.png": "./static/media/castlogo.718e41bd8dbd7cbd3fe1.png",
     "static/media/option3_1.mp4": "./static/media/option3_1.68421ac9c5cb15678fd5.mp4",
@@ -106,12 +107,12 @@
     "static/media/onekf.mp4": "./static/media/onekf.c6319822feb85cae6609.mp4",
     "static/media/option.png": "./static/media/option.2bc3332aa7557714c639.png",
     "index.html": "./index.html",
-    "main.9066d1d2.css.map": "./static/css/main.9066d1d2.css.map",
-    "main.26848b23.js.map": "./static/js/main.26848b23.js.map",
+    "main.945eaa97.css.map": "./static/css/main.945eaa97.css.map",
+    "main.39a8f2ff.js.map": "./static/js/main.39a8f2ff.js.map",
     "787.3e67008f.chunk.js.map": "./static/js/787.3e67008f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9066d1d2.css",
-    "static/js/main.26848b23.js"
+    "static/css/main.945eaa97.css",
+    "static/js/main.39a8f2ff.js"
   ]
 }
