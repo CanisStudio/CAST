@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "./static/css/main.db339a29.css",
-    "main.js": "./static/js/main.e8e2e4db.js",
+    "main.css": "./static/css/main.29ab8448.css",
+    "main.js": "./static/js/main.85499e61.js",
     "static/js/787.3e67008f.chunk.js": "./static/js/787.3e67008f.chunk.js",
     "static/media/teaser1.mp4": "./static/media/teaser1.7fb319d115569cf26287.mp4",
     "static/media/co2.mp4": "./static/media/co2.7280219bd3851d2af2ca.mp4",
     "static/media/os.mp4": "./static/media/os.949163a4b96e82b12c64.mp4",
     "static/media/gdp.mp4": "./static/media/gdp.0ec4ebdf159b6dbf6449.mp4",
+    "static/media/yhw.jpg": "./static/media/yhw.576872dca465029b07b7.jpg",
     "static/media/driving.mp4": "./static/media/driving.bcdc8e93ea0268feb236.mp4",
     "static/media/hiring.mp4": "./static/media/hiring.4e7123bb1e3ad71c4cfd.mp4",
     "static/media/purchase.mp4": "./static/media/purchase.158910eaa2078114510d.mp4",
@@ -19,12 +20,16 @@
     "static/media/spec.png": "./static/media/spec.ce2fac1cee883a7e3bef.png",
     "static/media/dessert.mp4": "./static/media/dessert.31468b010a07bc2c87ca.mp4",
     "static/media/loading.png": "./static/media/loading.5f87a066c2c77a27a853.png",
+    "static/media/zy.png": "./static/media/zy.a67206d79b7721128962.png",
     "static/media/chart.gif": "./static/media/chart.a1cfcdf65180487b60ba.gif",
     "static/media/option3_2.mov": "./static/media/option3_2.8d59d29ddd8708f5ed7c.mov",
     "static/media/selection.png": "./static/media/selection.1181ff756e58b914c147.png",
     "static/media/castlogo.png": "./static/media/castlogo.718e41bd8dbd7cbd3fe1.png",
+    "static/media/bl.png": "./static/media/bl.55a6e7fb510c71c2d5cf.png",
     "static/media/option3_1.mp4": "./static/media/option3_1.68421ac9c5cb15678fd5.mp4",
+    "static/media/shy.png": "./static/media/shy.df6a6f57f4e8eeb4d303.png",
     "static/media/reading_test_3_4.mp4": "./static/media/reading_test_3_4.edfb8d6f3f7dbc122744.mp4",
+    "static/media/gt.jpg": "./static/media/gt.014a849a266f37c3f5fc.jpg",
     "static/media/option3_4.mp4": "./static/media/option3_4.cd7336ae4b055a5f1276.mp4",
     "static/media/feature2.png": "./static/media/feature2.0752993573858aec1c7e.png",
     "static/media/co2_s.mp4": "./static/media/co2_s.f1f114c2eac622677f3c.mp4",
@@ -54,6 +59,7 @@
     "static/media/worldPopulation_s.mp4": "./static/media/worldPopulation_s.04156d37dddc3133320c.mp4",
     "static/media/reading_test_3_1.mp4": "./static/media/reading_test_3_1.c88241967f40ef06cd1c.mp4",
     "static/media/os.png": "./static/media/os.a688e4294eebb995c1d5.png",
+    "static/media/yc.jpg": "./static/media/yc.a541637d0ef26a72948b.jpg",
     "static/media/gdp_s.mp4": "./static/media/gdp_s.c9c1700b866153cc2884.mp4",
     "static/media/purchase.png": "./static/media/purchase.34b7278acfeee71e625a.png",
     "static/media/rep_test_1.mp4": "./static/media/rep_test_1.3f0506499ae743a45b5a.mp4",
@@ -111,12 +117,12 @@
     "static/media/onekf.mp4": "./static/media/onekf.c6319822feb85cae6609.mp4",
     "static/media/option.png": "./static/media/option.2bc3332aa7557714c639.png",
     "index.html": "./index.html",
-    "main.db339a29.css.map": "./static/css/main.db339a29.css.map",
-    "main.e8e2e4db.js.map": "./static/js/main.e8e2e4db.js.map",
+    "main.29ab8448.css.map": "./static/css/main.29ab8448.css.map",
+    "main.85499e61.js.map": "./static/js/main.85499e61.js.map",
     "787.3e67008f.chunk.js.map": "./static/js/787.3e67008f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.db339a29.css",
-    "static/js/main.e8e2e4db.js"
+    "static/css/main.29ab8448.css",
+    "static/js/main.85499e61.js"
   ]
 }
