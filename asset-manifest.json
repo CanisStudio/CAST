@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.fb502bec.css",
-    "main.js": "./static/js/main.a349e7f5.js",
+    "main.js": "./static/js/main.3512980b.js",
     "static/js/787.3e67008f.chunk.js": "./static/js/787.3e67008f.chunk.js",
     "static/media/teaser1.mp4": "./static/media/teaser1.7fb319d115569cf26287.mp4",
     "static/media/gdp.mp4": "./static/media/gdp.07fe12f75f1cd503fd9e.mp4",
+    "static/media/mekko.mp4": "./static/media/mekko.7ed2ca3c087bd99d952a.mp4",
     "static/media/driving.mp4": "./static/media/driving.5bbded040305bde4ac1b.mp4",
     "static/media/os.mp4": "./static/media/os.2418e5f2d3a3ce1cf1d8.mp4",
     "static/media/co2.mp4": "./static/media/co2.5547f5a437a46d1b4b91.mp4",
     "static/media/worldPopulation.mp4": "./static/media/worldPopulation.1154ff166fdaf21acb7c.mp4",
     "static/media/spec.png": "./static/media/spec.ce2fac1cee883a7e3bef.png",
     "static/media/nightingale.mp4": "./static/media/nightingale.2458acd60b8a18acdc40.mp4",
-    "static/media/purchase.mp4": "./static/media/purchase.f8661de24d5511fd2b89.mp4",
     "static/media/effect.png": "./static/media/effect.f1a8e798d667192c0904.png",
     "static/media/gantt.mp4": "./static/media/gantt.35de239b2e924d0e505c.mp4",
     "static/media/dessert.mp4": "./static/media/dessert.19a5df157d0849d11995.mp4",
@@ -47,6 +47,7 @@
     "static/media/weather.mp4": "./static/media/weather.b6fa6292b0904abd06f4.mp4",
     "static/media/driving_s.mp4": "./static/media/driving_s.0cab066db04d992f4ab2.mp4",
     "static/media/feature3.png": "./static/media/feature3.cfc1dc8d2325471f0170.png",
+    "static/media/mekko_s.mp4": "./static/media/mekko_s.747edcfc422919a172d2.mp4",
     "static/media/option6_1.mp4": "./static/media/option6_1.7553d1fa2c0e1fe7dd8a.mp4",
     "static/media/option6_4.mp4": "./static/media/option6_4.36b966664b4f1784098d.mp4",
     "static/media/train1.png": "./static/media/train1.66565d0696af2da63f59.png",
@@ -54,7 +55,6 @@
     "static/media/gdp.png": "./static/media/gdp.bb62689d5bcbbc3a55e2.png",
     "static/media/feature1.png": "./static/media/feature1.58b0030273aed795ba8b.png",
     "static/media/group_study.png": "./static/media/group_study.6baed732023dc471630c.png",
-    "static/media/purchase_s.mp4": "./static/media/purchase_s.d8c63b3e0f033f7e57e0.mp4",
     "static/media/train2.png": "./static/media/train2.b0f1b2837a41c1225f6e.png",
     "static/media/onebyone.mp4": "./static/media/onebyone.8f765485634bcf4cae5e.mp4",
     "static/media/fruitsale.png": "./static/media/fruitsale.6ad6b64ab11cbf547245.png",
@@ -63,7 +63,6 @@
     "static/media/os.png": "./static/media/os.a688e4294eebb995c1d5.png",
     "static/media/yc.jpg": "./static/media/yc.a541637d0ef26a72948b.jpg",
     "static/media/gdp_s.mp4": "./static/media/gdp_s.c9c1700b866153cc2884.mp4",
-    "static/media/purchase.png": "./static/media/purchase.34b7278acfeee71e625a.png",
     "static/media/rep_test_1.mp4": "./static/media/rep_test_1.3f0506499ae743a45b5a.mp4",
     "static/media/weather_s.mp4": "./static/media/weather_s.5a98a2740618d592c95f.mp4",
     "static/media/properties.png": "./static/media/properties.6af28aa95747385c4340.png",
@@ -77,6 +76,7 @@
     "static/media/dessert_s.mp4": "./static/media/dessert_s.f2d6adbbf1bdb8833d6d.mp4",
     "static/media/worldPopulation.png": "./static/media/worldPopulation.5a5c6496b163ce8c865d.png",
     "static/media/rep_train_4.mp4": "./static/media/rep_train_4.c1fd62c0f631fe71e256.mp4",
+    "static/media/mekko.png": "./static/media/mekko.6041b15e1af25697beb3.png",
     "static/media/gantt_s.mp4": "./static/media/gantt_s.6111e2e2a41e6525d213.mp4",
     "static/media/fruitsale_s.mp4": "./static/media/fruitsale_s.693b219c466b8bdf38aa.mp4",
     "static/media/reading_test_2_4.mp4": "./static/media/reading_test_2_4.0f0552fc953d8cc61469.mp4",
@@ -118,11 +118,11 @@
     "static/media/option.png": "./static/media/option.2bc3332aa7557714c639.png",
     "index.html": "./index.html",
     "main.fb502bec.css.map": "./static/css/main.fb502bec.css.map",
-    "main.a349e7f5.js.map": "./static/js/main.a349e7f5.js.map",
+    "main.3512980b.js.map": "./static/js/main.3512980b.js.map",
     "787.3e67008f.chunk.js.map": "./static/js/787.3e67008f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb502bec.css",
-    "static/js/main.a349e7f5.js"
+    "static/js/main.3512980b.js"
   ]
 }
